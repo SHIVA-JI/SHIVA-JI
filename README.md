@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SHIVAM MISHRA
-- 👀 I’m interested in Computer Programming.
+- 👀 I’m interested in Computer Programming and Software Devlopement.
 - 🌱 I’m currently learning Computer Science & Engineering.
-- 💞️ I’m looking for an internship. 
+- 💞️ I’m looking for an internship/Job. 
 - 📫 Please contact me at "shivammishra2628@gmail.com"
 
 <!---
